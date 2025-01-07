@@ -83,4 +83,4 @@ python baseline.py -e ll
 
 ## Contributing
 
-This software is licensed under the Apache License, version 2 ("ALv2").
+This software is licensed under the MIT License.
